@@ -15,7 +15,7 @@
 }
 
 .slide-container {
-  height: 80%;
+  height: 60%;
   border-radius: 40px;
   overflow: hidden;
   position: relative;
@@ -74,7 +74,7 @@
   }
 
   .carousel-title {
-    width: 100%;
+    width: 80%;
     text-align: center;
     padding: 50px 0 50px 0;
   }

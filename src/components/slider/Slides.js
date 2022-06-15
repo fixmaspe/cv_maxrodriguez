@@ -4,21 +4,21 @@ import "./Slider.css";
 const slidesInfo = [
   {
     src:
-      "https://cdn.pixabay.com/photo/2016/12/19/08/39/mobile-phone-1917737_960_720.jpg",
+    "https://i.postimg.cc/BbgjzxjQ/2022-04-13-13h02-48.png",
     alt: "Project 1",
-    desc: "Project 1",
+    
   },
   {
     src:
-      "https://cdn.pixabay.com/photo/2017/10/31/19/05/web-design-2906159_960_720.jpg",
+      "https://i.postimg.cc/m2nRyh9V/2022-05-25-14h33-28.png",
     alt: "Project 2",
-    desc: "Project 2",
+    
   },
   {
     src:
-      "https://cdn.pixabay.com/photo/2015/02/05/08/06/macbook-624707_960_720.jpg",
+      "https://i.postimg.cc/W3FbPZsW/Buscador.png",
     alt: "Project 3",
-    desc: "Project 3",
+    
   },
 ];
 

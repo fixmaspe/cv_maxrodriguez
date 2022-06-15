@@ -5,7 +5,8 @@ const Info = () => {
   return (
     <div className="info-container">
       <div className="info">
-        <h1>Let's work together and create something unique</h1>
+        
+        <h4> AGRADEZCO LAS OPORTUNIDADES,Y TRATO DE APROVECHARLAS. ME APASIONA LA TECNOLOGIA, LAS CIENCIAS, LINUX 🐧 Y LA VIDA.EL BOXEO, EL FUTBOL Y EL MATE 🧉 </h4>
       </div>
     </div>
   );

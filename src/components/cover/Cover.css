@@ -1,4 +1,7 @@
-.cover-container {
+*{
+  font-family: 'Ubuntu Mono', monospace;
+
+}.cover-container {
   height: 100vh;
   width: 100%;
   object-fit: contain;

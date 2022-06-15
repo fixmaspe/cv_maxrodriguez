@@ -8,7 +8,9 @@ const Slider = () => {
   return (
     <div className="carousel-container">
       <div className="carousel-title">
-        <h2>My Projects</h2>
+        <h5> PROYECTOS  👉 <a href="https://github.com/fixmaspe" ><i className="fab fa-github" /></a> </h5>
+
+
       </div>
 
       <Carousel
@@ -18,13 +20,13 @@ const Slider = () => {
         animationSpeed={200}
         centered
         offset={50}
-        itemWidth={400}
+        itemWidth={300}
         slides={Slides}
         breakpoints={{
           960: {
             slidesPerPage: 1,
             arrows: false,
-            itemWidth: 250,
+            itemWidth: 100,
           },
         }}
       />
